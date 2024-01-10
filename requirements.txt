@@ -9,7 +9,7 @@ csscompressor==0.9.5
 cycler==0.10.0
 discord.py==1.6.0
 Flask==1.1.2
-google-images-download==2.8.0
+google-images-download
 htmlmin==0.1.12
 idna==2.10
 inflection==0.5.1
